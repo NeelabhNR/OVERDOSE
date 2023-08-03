@@ -2,8 +2,8 @@
 
 ##About
 - A front-end commercial website
-
-##Tech-Stack
+  
+#Tech-Stack
 -HTML
 -CSS
 -Bootstrap
