@@ -1,9 +1,7 @@
-# OVERDOSE
+# A Simple Front-end commercial website
 
-#About
-- A front-end commercial website
-  
-#Tech-Stack
--HTML
--CSS
--Bootstrap
+## Tech Stack:
+1. HTML
+2. CSS
+3. Bootstrap
+
